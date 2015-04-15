@@ -1,0 +1,12 @@
+body{
+	background-image: url(background-image.jpg);
+}
+#logo{
+	padding-top: 50px;
+}
+#name{
+	font-family: "arial";
+}
+#foot{
+	padding-top: 600px;
+}
